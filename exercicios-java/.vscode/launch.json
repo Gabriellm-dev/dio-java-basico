@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Exercicios.Loops.Fatorial",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Exercicios.Loops.Tabuada",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParImpar",
+            "request": "launch",
+            "mainClass": "Exercicios.Loops.ParImpar",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorMedia",
+            "request": "launch",
+            "mainClass": "Exercicios.Loops.MaiorMedia",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nota",
+            "request": "launch",
+            "mainClass": "Exercicios.Loops.Nota",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch NomeIdade",
+            "request": "launch",
+            "mainClass": "Exercicios.Loops.NomeIdade",
+            "projectName": "exercicios-java_c2244642"
+        }
+    ]
+}
