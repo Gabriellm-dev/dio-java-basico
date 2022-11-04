@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "Exercicios.Arrays.teste",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "Exercicios.Arrays.ArrayMultidimensional",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "Exercicios.Arrays.NumerosAleatorios",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consoantes",
+            "request": "launch",
+            "mainClass": "Exercicios.Arrays.Consoantes",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdemInversa",
+            "request": "launch",
+            "mainClass": "Exercicios.Arrays.OrdemInversa",
+            "projectName": "exercicios-java_c2244642"
+        },
+        {
+            "type": "java",
             "name": "Launch Fatorial",
             "request": "launch",
             "mainClass": "Exercicios.Loops.Fatorial",
